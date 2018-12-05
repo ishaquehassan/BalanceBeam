@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="ishaquehassan.balancebeam">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+            android:name=".base.MyApp"
+            android:allowBackup="true"
+            android:allowClearUserData="false"
+            android:allowTaskReparenting="false"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:supportsRtl="true"
+            android:theme="@style/AppTheme"
+            tools:ignore="GoogleAppIndexingWarning">
+        <activity
+                android:name=".SplashActivity"
+                android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name=".MainActivity"
+                android:theme="@style/DashTheme"/>
+        <activity
+                android:name=".ExercisesActivity"
+                android:parentActivityName=".MainActivity"/>
+        <activity
+                android:name=".LoginActivity"
+                android:theme="@style/SplashTheme"/>
+        <activity
+                android:name=".SignUpActivity"
+                android:theme="@style/SplashTheme"/>
+        <activity
+                android:name=".DietPlanActivity"
+                android:theme="@style/BgTheme"/>
+        <activity
+                android:name=".PatientsActivity"
+                android:theme="@style/BgTheme"/>
+        <activity
+                android:name=".WeightLooseDietActivity"
+                android:theme="@style/BgTheme"/>
+    </application>
+
+</manifest>

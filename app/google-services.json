@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "865197579619",
+    "firebase_url": "https://balance-beam.firebaseio.com",
+    "project_id": "balance-beam",
+    "storage_bucket": "balance-beam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865197579619:android:09e8ace773e3ec30",
+        "android_client_info": {
+          "package_name": "ishaquehassan.balancebeam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865197579619-na6atnomukbefrsthjm6t3ulrate8g14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjvVEt4IoJxA91SZLDXHGb7Zr4G4POL0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

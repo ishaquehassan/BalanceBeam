@@ -1,0 +1,1775 @@
+{
+  "exercises": [
+    {
+      "image": "cover_abs_1",
+      "title": "Abs",
+      "stitle": "Exercises & Diet for Abs",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Abs Roller",
+            "stitle": "x 30",
+            "image": "abs_b_3",
+            "video": "https://www.youtube.com/watch?v=A3uK5TPzHq8"
+          },
+          {
+            "title": "Cable Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_4",
+            "video": "https://www.youtube.com/watch?v=AV5PmZJIrrw"
+          },
+          {
+            "title": "Crunches",
+            "stitle": "x 30",
+            "image": "abs_b_5",
+            "video": "https://www.youtube.com/watch?v=5ER5Of4MOPI"
+          },
+          {
+            "title": "Decline Reverse Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_6",
+            "video": "https://www.youtube.com/watch?v=6w30ZwGS7uI"
+          },
+          {
+            "title": "Dumbbell Side Bend",
+            "stitle": "x 30",
+            "image": "abs_b_7",
+            "video": "https://www.youtube.com/watch?v=dL9ZzqtQI5c"
+          },
+          {
+            "title": "Hanging Leg Raise",
+            "stitle": "x 30",
+            "image": "abs_b_8",
+            "video": "https://www.youtube.com/watch?v=hdng3Nm1x_E"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Abs Roller",
+            "stitle": "x 30",
+            "image": "abs_b_3",
+            "video": "https://www.youtube.com/watch?v=A3uK5TPzHq8"
+          },
+          {
+            "title": "Cable Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_4",
+            "video": "https://www.youtube.com/watch?v=AV5PmZJIrrw"
+          },
+          {
+            "title": "Crunches",
+            "stitle": "x 30",
+            "image": "abs_b_5",
+            "video": "https://www.youtube.com/watch?v=5ER5Of4MOPI"
+          },
+          {
+            "title": "Decline Reverse Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_6",
+            "video": "https://www.youtube.com/watch?v=6w30ZwGS7uI"
+          },
+          {
+            "title": "Dumbbell Side Bend",
+            "stitle": "x 30",
+            "image": "abs_b_7",
+            "video": "https://www.youtube.com/watch?v=dL9ZzqtQI5c"
+          },
+          {
+            "title": "Hanging Leg Raise",
+            "stitle": "x 30",
+            "image": "abs_b_8",
+            "video": "https://www.youtube.com/watch?v=hdng3Nm1x_E"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Abs Roller",
+            "stitle": "x 30",
+            "image": "abs_b_3",
+            "video": "https://www.youtube.com/watch?v=A3uK5TPzHq8"
+          },
+          {
+            "title": "Cable Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_4",
+            "video": "https://www.youtube.com/watch?v=AV5PmZJIrrw"
+          },
+          {
+            "title": "Crunches",
+            "stitle": "x 30",
+            "image": "abs_b_5",
+            "video": "https://www.youtube.com/watch?v=5ER5Of4MOPI"
+          },
+          {
+            "title": "Decline Reverse Crunch",
+            "stitle": "x 30",
+            "image": "abs_b_6",
+            "video": "https://www.youtube.com/watch?v=6w30ZwGS7uI"
+          },
+          {
+            "title": "Dumbbell Side Rod",
+            "stitle": "x 30",
+            "image": "abs_b_7",
+            "video": "https://www.youtube.com/watch?v=dL9ZzqtQI5c"
+          },
+          {
+            "title": "Hanging Leg Raise",
+            "stitle": "x 30",
+            "image": "abs_b_8",
+            "video": "https://www.youtube.com/watch?v=hdng3Nm1x_E"
+          }
+        ]
+      }
+    },
+    {
+      "image": "cover_arm_1",
+      "title": "Arm",
+      "stitle": "Exercises & Diet for Arm",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "arm_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "arm_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_3",
+            "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
+          },
+          {
+            "title": "One Arm Bicep Preacher",
+            "stitle": "x 30",
+            "image": "arm_b_4",
+            "video": "https://www.youtube.com/watch?v=DoCWeUBA0Gs"
+          },
+          {
+            "title": "Preacher Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_5",
+            "video": "https://www.youtube.com/watch?v=SvHk7oc00jE"
+          },
+          {
+            "title": "Seated Dumbbell Curl",
+            "stitle": "x 30",
+            "image": "arm_b_6",
+            "video": "https://www.youtube.com/watch?v=BsULGO70tcU"
+          },
+          {
+            "title": "Standing Bicep Cable",
+            "stitle": "x 30",
+            "image": "arm_b_7",
+            "video": "https://www.youtube.com/watch?v=85kXYq7Ssh4"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "arm_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "arm_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_3",
+            "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
+          },
+          {
+            "title": "Incline Dumbbell",
+            "stitle": "x 30",
+            "image": "arm_a_5",
+            "video": "https://www.youtube.com/watch?v=b4jOP-spQW8"
+          },
+          {
+            "title": "One Arm Bicep Preacher",
+            "stitle": "x 30",
+            "image": "arm_b_4",
+            "video": "https://www.youtube.com/watch?v=DoCWeUBA0Gs"
+          },
+          {
+            "title": "Preacher Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_5",
+            "video": "https://www.youtube.com/watch?v=SvHk7oc00jE"
+          },
+          {
+            "title": "Rope Attachment",
+            "stitle": "x 30",
+            "image": "arm_a_8",
+            "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
+          },
+          {
+            "title": "Seated Dumbbell Curl",
+            "stitle": "x 30",
+            "image": "arm_b_6",
+            "video": "https://www.youtube.com/watch?v=BsULGO70tcU"
+          },
+          {
+            "title": "Standing Bicep Cable",
+            "stitle": "x 30",
+            "image": "arm_b_7",
+            "video": "https://www.youtube.com/watch?v=85kXYq7Ssh4"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "arm_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "arm_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_3",
+            "video": "https://www.youtube.com/watch?v=kwG2ipFRgfo"
+          },
+          {
+            "title": "Incline Dumbbell",
+            "stitle": "x 30",
+            "image": "arm_a_5",
+            "video": "https://www.youtube.com/watch?v=b4jOP-spQW8"
+          },
+          {
+            "title": "One Arm Bicep Preacher",
+            "stitle": "x 30",
+            "image": "arm_b_4",
+            "video": "https://www.youtube.com/watch?v=DoCWeUBA0Gs"
+          },
+          {
+            "title": "Preacher Curl Rod",
+            "stitle": "x 30",
+            "image": "arm_b_5",
+            "video": "https://www.youtube.com/watch?v=SvHk7oc00jE"
+          },
+          {
+            "title": "Rope Attachment",
+            "stitle": "x 30",
+            "image": "arm_a_8",
+            "video": "https://www.youtube.com/watch?v=P6vS9S3xO-k"
+          },
+          {
+            "title": "Seated Dumbbell Curl",
+            "stitle": "x 30",
+            "image": "arm_b_6",
+            "video": "https://www.youtube.com/watch?v=BsULGO70tcU"
+          },
+          {
+            "title": "Standing Bicep Cable",
+            "stitle": "x 30",
+            "image": "arm_b_7",
+            "video": "https://www.youtube.com/watch?v=85kXYq7Ssh4"
+          },
+          {
+            "title": "Standing Dumbbell",
+            "stitle": "x 30",
+            "image": "arm_a_11",
+            "video": "https://www.youtube.com/watch?v=av7-8igSXTs"
+          }
+        ]
+      }
+    },
+    {
+      "image": "cover_back_1",
+      "title": "Back",
+      "stitle": "Exercises & Diet for Back",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "back_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "back_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Back Pulley",
+            "stitle": "x 30",
+            "image": "back_b_3",
+            "video": "https://www.youtube.com/watch?v=MDg0xyAJnIc"
+          },
+          {
+            "title": "Front Pulley",
+            "stitle": "x 30",
+            "image": "back_b_4",
+            "video": "https://www.youtube.com/watch?v=oZidzc_oeuU"
+          },
+          {
+            "title": "Pull Ups",
+            "stitle": "x 30",
+            "image": "back_b_5",
+            "video": "https://www.youtube.com/watch?v=bAEua0zu_74"
+          },
+          {
+            "title": "Seated Cable Row",
+            "stitle": "x 30",
+            "image": "back_b_6",
+            "video": "https://www.youtube.com/watch?v=DZ0eN0RF2Jw"
+          },
+          {
+            "title": "T-Bar",
+            "stitle": "x 30",
+            "image": "back_b_7",
+            "video": "https://www.youtube.com/watch?v=j3Igk5nyZE4"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "back_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "back_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Back Pulley",
+            "stitle": "x 30",
+            "image": "back_b_3",
+            "video": "https://www.youtube.com/watch?v=MDg0xyAJnIc"
+          },
+          {
+            "title": "Front Pulley",
+            "stitle": "x 30",
+            "image": "back_b_4",
+            "video": "https://www.youtube.com/watch?v=oZidzc_oeuU"
+          },
+          {
+            "title": "Pull Ups",
+            "stitle": "x 30",
+            "image": "back_b_5",
+            "video": "https://www.youtube.com/watch?v=bAEua0zu_74"
+          },
+          {
+            "title": "One Arm Dumbbell",
+            "stitle": "x 30",
+            "image": "back_i_6",
+            "video": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+          },
+          {
+            "title": "Seated Cable Row",
+            "stitle": "x 30",
+            "image": "back_b_6",
+            "video": "https://www.youtube.com/watch?v=DZ0eN0RF2Jw"
+          },
+          {
+            "title": "T-Bar",
+            "stitle": "x 30",
+            "image": "back_b_7",
+            "video": "https://www.youtube.com/watch?v=j3Igk5nyZE4"
+          },
+          {
+            "title": "Wide-Grip Pull Ups",
+            "stitle": "x 30",
+            "image": "back_i_9",
+            "video": "https://www.youtube.com/watch?v=9-U7e3V0Sck"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "back_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "back_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Back Pulley",
+            "stitle": "x 30",
+            "image": "back_b_3",
+            "video": "https://www.youtube.com/watch?v=MDg0xyAJnIc"
+          },
+          {
+            "title": "Bent Over Two Dumbbell",
+            "stitle": "x 30",
+            "image": "back_a_4",
+            "video": "https://www.youtube.com/watch?v=--gDUDFKx6Q"
+          },
+          {
+            "title": "Close-Grip Pull Ups",
+            "stitle": "x 30",
+            "image": "back_a_5",
+            "video": "https://www.youtube.com/watch?v=DltwoA_UCus"
+          },
+          {
+            "title": "Dead Lift",
+            "stitle": "x 30",
+            "image": "back_a_6",
+            "video": "https://www.youtube.com/watch?v=VPqXegeE_Bc"
+          },
+          {
+            "title": "Front Pulley",
+            "stitle": "x 30",
+            "image": "back_b_4",
+            "video": "https://www.youtube.com/watch?v=oZidzc_oeuU"
+          },
+          {
+            "title": "Pull Ups",
+            "stitle": "x 30",
+            "image": "back_b_5",
+            "video": "https://www.youtube.com/watch?v=bAEua0zu_74"
+          },
+          {
+            "title": "One Arm Dumbbell",
+            "stitle": "x 30",
+            "image": "back_i_6",
+            "video": "https://www.youtube.com/watch?v=pYcpY20QaE8"
+          },
+          {
+            "title": "Pull Ups",
+            "stitle": "x 30",
+            "image": "back_a_9",
+            "video": "https://www.youtube.com/watch?v=bAEua0zu_74"
+          },
+          {
+            "title": "Seated Cable Row",
+            "stitle": "x 30",
+            "image": "back_b_6",
+            "video": "https://www.youtube.com/watch?v=DZ0eN0RF2Jw"
+          },
+          {
+            "title": "T-Bar",
+            "stitle": "x 30",
+            "image": "back_b_7",
+            "video": "https://www.youtube.com/watch?v=j3Igk5nyZE4"
+          },
+          {
+            "title": "Wide-Grip Pull Ups",
+            "stitle": "x 30",
+            "image": "back_i_9",
+            "video": "https://www.youtube.com/watch?v=9-U7e3V0Sck"
+          }
+        ]
+      }
+    },
+    {
+      "image": "cover_chest_1",
+      "title": "Chest",
+      "stitle": "Exercises & Diet for Chest",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "chest_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "chest_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Bench Press",
+            "stitle": "x 30",
+            "image": "chest_b_3",
+            "video": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+          },
+          {
+            "title": "Butterfly",
+            "stitle": "x 30",
+            "image": "chest_b_4",
+            "video": "https://www.youtube.com/watch?v=GOR-q5plI3o"
+          },
+          {
+            "title": "Decline Push Up",
+            "stitle": "x 30",
+            "image": "chest_b_5",
+            "video": "https://www.youtube.com/watch?v=SKPab2YC8BE"
+          },
+          {
+            "title": "Decline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_6",
+            "video": "https://www.youtube.com/watch?v=LfyQBUKR8SE"
+          },
+          {
+            "title": "Incline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_7",
+            "video": "https://www.youtube.com/watch?v=DbFgADa2PL8"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "chest_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "chest_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Bench Press",
+            "stitle": "x 30",
+            "image": "chest_b_3",
+            "video": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+          },
+          {
+            "title": "Bench Press Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_i_4",
+            "video": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+          },
+          {
+            "title": "Butterfly",
+            "stitle": "x 30",
+            "image": "chest_b_4",
+            "video": "https://www.youtube.com/watch?v=GOR-q5plI3o"
+          },
+          {
+            "title": "Cable Crossover",
+            "stitle": "x 30",
+            "image": "chest_i_6",
+            "video": "https://www.youtube.com/watch?v=taI4XduLpTk"
+          },
+          {
+            "title": "Decline Push Up",
+            "stitle": "x 30",
+            "image": "chest_b_5",
+            "video": "https://www.youtube.com/watch?v=SKPab2YC8BE"
+          },
+          {
+            "title": "Decline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_6",
+            "video": "https://www.youtube.com/watch?v=LfyQBUKR8SE"
+          },
+          {
+            "title": "Incline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_7",
+            "video": "https://www.youtube.com/watch?v=DbFgADa2PL8"
+          },
+          {
+            "title": "Incline Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_i_10",
+            "video": "https://www.youtube.com/watch?v=0G2_XV7slIg"
+          },
+          {
+            "title": "Low Cable Crossover",
+            "stitle": "x 30",
+            "image": "chest_i_11",
+            "video": "https://www.youtube.com/watch?v=M1N804yWA-8"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "chest_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "chest_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Bench Press",
+            "stitle": "x 30",
+            "image": "chest_b_3",
+            "video": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+          },
+          {
+            "title": "Bench Press Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_i_4",
+            "video": "https://www.youtube.com/watch?v=OR6WM5Z2Hqs"
+          },
+          {
+            "title": "Butterfly",
+            "stitle": "x 30",
+            "image": "chest_b_4",
+            "video": "https://www.youtube.com/watch?v=GOR-q5plI3o"
+          },
+          {
+            "title": "Cable Crossover",
+            "stitle": "x 30",
+            "image": "chest_i_6",
+            "video": "https://www.youtube.com/watch?v=taI4XduLpTk"
+          },
+          {
+            "title": "Decline Push Up",
+            "stitle": "x 30",
+            "image": "chest_b_5",
+            "video": "https://www.youtube.com/watch?v=SKPab2YC8BE"
+          },
+          {
+            "title": "Decline Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_a_8",
+            "video": "https://www.youtube.com/watch?v=0xRvl4Qv3ZY"
+          },
+          {
+            "title": "Decline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_6",
+            "video": "https://www.youtube.com/watch?v=LfyQBUKR8SE"
+          },
+          {
+            "title": "Incline Rod",
+            "stitle": "x 30",
+            "image": "chest_b_7",
+            "video": "https://www.youtube.com/watch?v=DbFgADa2PL8"
+          },
+          {
+            "title": "Incline Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_i_10",
+            "video": "https://www.youtube.com/watch?v=0G2_XV7slIg"
+          },
+          {
+            "title": "Incline Dumbbell",
+            "stitle": "x 30",
+            "image": "chest_i_10",
+            "video": "https://www.youtube.com/watch?v=bDaIL_zKbGs"
+          },
+          {
+            "title": "Incline Push Ups",
+            "stitle": "x 30",
+            "image": "chest_a_13",
+            "video": "https://www.youtube.com/watch?v=Z0bRiVhnO8Q"
+          },
+          {
+            "title": "Low Cable Crossover",
+            "stitle": "x 30",
+            "image": "chest_i_11",
+            "video": "https://www.youtube.com/watch?v=M1N804yWA-8"
+          }
+        ]
+      }
+    },
+    {
+      "image": "cover_leg_1",
+      "title": "Legs",
+      "stitle": "Exercises & Diet for Legs",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "leg_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "leg_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_3",
+            "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+          },
+          {
+            "title": "Dumbbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_4",
+            "video": "https://www.youtube.com/watch?v=SRolvrsmBzU"
+          },
+          {
+            "title": "Leg Extensions",
+            "stitle": "x 30",
+            "image": "leg_b_5",
+            "video": "https://www.youtube.com/watch?v=YyvSfVjQeL0"
+          },
+          {
+            "title": "Leg Press",
+            "stitle": "x 30",
+            "image": "leg_b_6",
+            "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+          },
+          {
+            "title": "Lying Leg Curls",
+            "stitle": "x 30",
+            "image": "leg_b_7",
+            "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
+          },
+          {
+            "title": "Standing Calf Raises",
+            "stitle": "x 30",
+            "image": "leg_b_8",
+            "video": "https://www.youtube.com/watch?v=K_jsGgztcGU"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "leg_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "leg_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_3",
+            "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+          },
+          {
+            "title": "Dumbbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_4",
+            "video": "https://www.youtube.com/watch?v=SRolvrsmBzU"
+          },
+          {
+            "title": "Leg Extensions",
+            "stitle": "x 30",
+            "image": "leg_b_5",
+            "video": "https://www.youtube.com/watch?v=YyvSfVjQeL0"
+          },
+          {
+            "title": "Leg Press",
+            "stitle": "x 30",
+            "image": "leg_b_6",
+            "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+          },
+          {
+            "title": "Lying Leg Curls",
+            "stitle": "x 30",
+            "image": "leg_b_7",
+            "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
+          },
+          {
+            "title": "Standing Calf Raises",
+            "stitle": "x 30",
+            "image": "leg_b_8",
+            "video": "https://www.youtube.com/watch?v=K_jsGgztcGU"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "leg_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "leg_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Barbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_3",
+            "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+          },
+          {
+            "title": "Dumbbell Squat",
+            "stitle": "x 30",
+            "image": "leg_b_4",
+            "video": "https://www.youtube.com/watch?v=SRolvrsmBzU"
+          },
+          {
+            "title": "Leg Extensions",
+            "stitle": "x 30",
+            "image": "leg_b_5",
+            "video": "https://www.youtube.com/watch?v=YyvSfVjQeL0"
+          },
+          {
+            "title": "Leg Press",
+            "stitle": "x 30",
+            "image": "leg_b_6",
+            "video": "https://www.youtube.com/watch?v=IZxyjW7MPJQ"
+          },
+          {
+            "title": "Lying Leg Curls",
+            "stitle": "x 30",
+            "image": "leg_b_7",
+            "video": "https://www.youtube.com/watch?v=1Tq3QdYUuHs"
+          },
+          {
+            "title": "Standing Calf Raises",
+            "stitle": "x 30",
+            "image": "leg_b_8",
+            "video": "https://www.youtube.com/watch?v=K_jsGgztcGU"
+          }
+        ]
+      }
+    },
+    {
+      "image": "cover_shoulder_1",
+      "title": "Legs",
+      "stitle": "Exercises & Diet for Legs",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "shoulder_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "shoulder_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Front Cable Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_3",
+            "video": "https://www.youtube.com/watch?v=H0O4HNvtB70"
+          },
+          {
+            "title": "Front Rod",
+            "stitle": "x 30",
+            "image": "shoulder_b_4",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Flying",
+            "stitle": "x 30",
+            "image": "shoulder_b_5",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Front Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_6",
+            "video": "https://www.youtube.com/watch?v=cdKAwIwgrGc"
+          },
+          {
+            "title": "Seated Side Dumbbell",
+            "stitle": "x 30",
+            "image": "shoulder_b_7",
+            "video": "https://www.youtube.com/watch?v=jiQ0Wkm_5j4"
+          },
+          {
+            "title": "Side Arm Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_8",
+            "video": "https://www.youtube.com/watch?v=kDqklk1ZESo"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "shoulder_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "shoulder_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Bent Over Dumbbell",
+            "stitle": "x 30",
+            "image": "shoulder_b_3",
+            "video": "https://www.youtube.com/watch?v=ttvfGg9d76c"
+          },
+          {
+            "title": "Front Dumbbell Raise",
+            "stitle": "x 30",
+            "image": "shoulder_i_4",
+            "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
+          },
+          {
+            "title": "Front Rod",
+            "stitle": "x 30",
+            "image": "shoulder_b_4",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Flying",
+            "stitle": "x 30",
+            "image": "shoulder_b_5",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Front Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_6",
+            "video": "https://www.youtube.com/watch?v=cdKAwIwgrGc"
+          },
+          {
+            "title": "Seated Side Dumbbell",
+            "stitle": "x 30",
+            "image": "shoulder_b_7",
+            "video": "https://www.youtube.com/watch?v=jiQ0Wkm_5j4"
+          },
+          {
+            "title": "Side Arm Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_8",
+            "video": "https://www.youtube.com/watch?v=kDqklk1ZESo"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "shoulder_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "shoulder_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Bent Over Dumbbell",
+            "stitle": "x 30",
+            "image": "shoulder_b_3",
+            "video": "https://www.youtube.com/watch?v=ttvfGg9d76c"
+          },
+          {
+            "title": "Front Cable Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_3",
+            "video": "https://www.youtube.com/watch?v=H0O4HNvtB70"
+          },
+          {
+            "title": "Front Dumbbell Raise",
+            "stitle": "x 30",
+            "image": "shoulder_i_4",
+            "video": "https://www.youtube.com/watch?v=-t7fuZ0KhDA"
+          },
+          {
+            "title": "Front Rod",
+            "stitle": "x 30",
+            "image": "shoulder_b_4",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Flying",
+            "stitle": "x 30",
+            "image": "shoulder_b_5",
+            "video": "https://www.youtube.com/watch?v=Ofo2DQdT7DA"
+          },
+          {
+            "title": "Seated Front Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_6",
+            "video": "https://www.youtube.com/watch?v=cdKAwIwgrGc"
+          },
+          {
+            "title": "Seated Side Dumbbell",
+            "stitle": "x 30",
+            "image": "shoulder_b_7",
+            "video": "https://www.youtube.com/watch?v=jiQ0Wkm_5j4"
+          },
+          {
+            "title": "Side Arm Raise",
+            "stitle": "x 30",
+            "image": "shoulder_b_8",
+            "video": "https://www.youtube.com/watch?v=kDqklk1ZESo"
+          },
+          {
+            "title": "Upright-Cable Row",
+            "stitle": "x 30",
+            "image": "shoulder_a_11",
+            "video": "https://www.youtube.com/watch?v=aHlrxmL3S6o"
+          }
+        ]
+      }
+    }
+  ],
+  "patients": [
+    {
+      "image": "blood_pressure_cover",
+      "title": "Blood Pressure",
+      "stitle": "Exercises For Blood Pressure Patients",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ]
+      }
+    },
+    {
+      "image": "diabbetes_cover",
+      "title": "Diabetes",
+      "stitle": "Exercises For Diabetes Patients",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ]
+      }
+    },
+    {
+      "image": "heart_cover",
+      "title": "Heart Patients",
+      "stitle": "Exercises For Heart Patients",
+      "levels": {
+        "Beginner": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Intermediate": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ],
+        "Advanced": [
+          {
+            "title": "Jumping Jacks",
+            "stitle": "x 30",
+            "image": "abs_b_1",
+            "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+          },
+          {
+            "title": "Dips",
+            "stitle": "x 30",
+            "image": "abs_b_2",
+            "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+          },
+          {
+            "title": "Cycling",
+            "stitle": "x 30",
+            "image": "p_3"
+          },
+          {
+            "title": "Swimming",
+            "stitle": "x 30",
+            "image": "p_4"
+          },
+          {
+            "title": "Treadmill",
+            "stitle": "x 30",
+            "image": "p_5"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_6"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_7"
+          },
+          {
+            "title": "Yoga",
+            "stitle": "x 30",
+            "image": "p_8"
+          }
+        ]
+      }
+    }
+  ],
+  "weight_loose_program": {
+    "image": "cover_abs_1",
+    "title": "Weight Loose",
+    "stitle": "Exercises For Weight loosing",
+    "levels": {
+      "Beginner": [
+        {
+          "title": "Jumping Jacks",
+          "stitle": "x 30",
+          "image": "abs_b_1",
+          "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+        },
+        {
+          "title": "Dips",
+          "stitle": "x 30",
+          "image": "abs_b_2",
+          "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+        },
+        {
+          "title": "Barbell Rowout",
+          "stitle": "x 30",
+          "image": "w_3"
+        },
+        {
+          "title": "Barbell Squat",
+          "stitle": "x 30",
+          "image": "leg_b_3",
+          "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+        },
+        {
+          "title": "Battle Rope",
+          "stitle": "x 30",
+          "image": "w_5"
+        },
+        {
+          "title": "Boat Pose",
+          "stitle": "x 30",
+          "image": "w_6"
+        },
+        {
+          "title": "Burpees",
+          "stitle": "x 30",
+          "image": "w_7"
+        },
+        {
+          "title": "Chin Ups",
+          "stitle": "x 30",
+          "image": "w_8"
+        },
+        {
+          "title": "Clean and Press",
+          "stitle": "x 30",
+          "image": "w_9"
+        },
+        {
+          "title": "Jogging",
+          "stitle": "x 30",
+          "image": "w_10"
+        },
+        {
+          "title": "Jump Rope",
+          "stitle": "x 30",
+          "image": "w_11"
+        },
+        {
+          "title": "Kick Boxing",
+          "stitle": "x 30",
+          "image": "w_12"
+        },
+        {
+          "title": "Sit Ups",
+          "stitle": "x 30",
+          "image": "w_13"
+        },
+        {
+          "title": "Strength Training",
+          "stitle": "x 30",
+          "image": "w_14"
+        }
+      ],
+      "Intermediate": [
+        {
+          "title": "Jumping Jacks",
+          "stitle": "x 30",
+          "image": "abs_b_1",
+          "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+        },
+        {
+          "title": "Dips",
+          "stitle": "x 30",
+          "image": "abs_b_2",
+          "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+        },
+        {
+          "title": "Barbell Rowout",
+          "stitle": "x 30",
+          "image": "w_3"
+        },
+        {
+          "title": "Barbell Squat",
+          "stitle": "x 30",
+          "image": "leg_b_3",
+          "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+        },
+        {
+          "title": "Battle Rope",
+          "stitle": "x 30",
+          "image": "w_5"
+        },
+        {
+          "title": "Boat Pose",
+          "stitle": "x 30",
+          "image": "w_6"
+        },
+        {
+          "title": "Burpees",
+          "stitle": "x 30",
+          "image": "w_7"
+        },
+        {
+          "title": "Chin Ups",
+          "stitle": "x 30",
+          "image": "w_8"
+        },
+        {
+          "title": "Clean and Press",
+          "stitle": "x 30",
+          "image": "w_9"
+        },
+        {
+          "title": "Jogging",
+          "stitle": "x 30",
+          "image": "w_10"
+        },
+        {
+          "title": "Jump Rope",
+          "stitle": "x 30",
+          "image": "w_11"
+        },
+        {
+          "title": "Kick Boxing",
+          "stitle": "x 30",
+          "image": "w_12"
+        },
+        {
+          "title": "Sit Ups",
+          "stitle": "x 30",
+          "image": "w_13"
+        },
+        {
+          "title": "Strength Training",
+          "stitle": "x 30",
+          "image": "w_14"
+        }
+      ],
+      "Advanced": [
+        {
+          "title": "Jumping Jacks",
+          "stitle": "x 30",
+          "image": "abs_b_1",
+          "video": "https://www.youtube.com/watch?v=UpH7rm0cYbM"
+        },
+        {
+          "title": "Dips",
+          "stitle": "x 30",
+          "image": "abs_b_2",
+          "video": "https://www.youtube.com/watch?v=90AABclAL1M"
+        },
+        {
+          "title": "Barbell Rowout",
+          "stitle": "x 30",
+          "image": "w_3"
+        },
+        {
+          "title": "Barbell Squat",
+          "stitle": "x 30",
+          "image": "leg_b_3",
+          "video": "https://www.youtube.com/watch?v=xoRkckaXMhE"
+        },
+        {
+          "title": "Battle Rope",
+          "stitle": "x 30",
+          "image": "w_5"
+        },
+        {
+          "title": "Boat Pose",
+          "stitle": "x 30",
+          "image": "w_6"
+        },
+        {
+          "title": "Burpees",
+          "stitle": "x 30",
+          "image": "w_7"
+        },
+        {
+          "title": "Chin Ups",
+          "stitle": "x 30",
+          "image": "w_8"
+        },
+        {
+          "title": "Clean and Press",
+          "stitle": "x 30",
+          "image": "w_9"
+        },
+        {
+          "title": "Jogging",
+          "stitle": "x 30",
+          "image": "w_10"
+        },
+        {
+          "title": "Jump Rope",
+          "stitle": "x 30",
+          "image": "w_11"
+        },
+        {
+          "title": "Kick Boxing",
+          "stitle": "x 30",
+          "image": "w_12"
+        },
+        {
+          "title": "Sit Ups",
+          "stitle": "x 30",
+          "image": "w_13"
+        },
+        {
+          "title": "Strength Training",
+          "stitle": "x 30",
+          "image": "w_14"
+        }
+      ]
+    }
+  },
+  "lean_diet_plan": [
+    {
+      "title": "Meal 1 (Breakfast)",
+      "descp": "Oats with 1 scoop of Whey Protein or Skimmed milk powder and water. Add some almonds or peanuts, honey . Also have a fruit (Apple, Banana or Orange)"
+    },
+    {
+      "title": "Meal 2 (2 -3 hours gap)",
+      "descp": "Oats with 1 scoop of Whey Protein or Skimmed milk powder and water. Add some almonds or peanuts, honey . Also have a fruit (Apple, Banana or Orange)"
+    },
+    {
+      "title": "Meal 3 (2 -3 hours gap)",
+      "descp": "2 egg whites/100gms paneer and a fruit (Orange, WaterMelon etc)"
+    },
+    {
+      "title": "Meal 4 (Lunch) (2 -3 hours gap)",
+      "descp": "Rotis or Brown rice with lentils, peas or beans(daal, rajma etc.)"
+    },
+    {
+      "title": "Meal 5 (Pre Workout) (2 -3 hours gap)",
+      "descp": "Take 1 cup Oats, 1 scoop whey protein or skimmed milk powder ad blend it. Then add 1 spoon of peanut butter, 1 whole banana, chocolate syrup(If using skimmed milk powder), few ice cubes and water. Blend the whole mixture and have it 2 hours prior to workout. 10 minutes prior to"
+    },
+    {
+      "title": "Meal 6 (Post Workout)",
+      "descp": "Protein shake(1 scoop with water) or 4 to 5 egg whiter or skimmed milk powder(1 or 2 scoops)"
+    },
+    {
+      "title": "Meal 7 (Dinner) (2 -3 hours gap )",
+      "descp": "Vegetable salad with 100 to 200 gms chicken breast/paneer."
+    }
+  ],
+  "bulk_diet_plan": [
+    {
+      "title": "Meal 1 (Breakfast)",
+      "descp": "Oats with 1 scoop of Whey Protein or Skimmed milk powder and water. Add some almonds or peanuts, honey . Also have a fruit (Apple, Banana or Orange)"
+    },
+    {
+      "title": "Meal 2 (2 -3 hours gap)",
+      "descp": "A Banana with 1 spoon of peanut butter on a slice of whole wheat bread."
+    },
+    {
+      "title": "Meal 3 (Lunch) (2 -3 hours gap)",
+      "descp": "3 roti or Brown rice with scrambled eggs (3 whites 1 whole eggs) or lentils, peas or beans(daal, rajrna etc.)"
+    },
+    {
+      "title": "Meal 4 (Pre Workout) (2 -3 hours gap)",
+      "descp": "Take 1 cup Oats, 1 scoop whey protein or skimmed milk powder ad blend it. Then add 1 spoon of peanut butter, 1 whole banana, chocolate syrup(If using skimmed milk powder), few ice cubes and water. Blend the whole mixture and have it 2 hours prior to workout. 10 minutes prior to"
+    },
+    {
+      "title": "Meal 3 (Lunch)",
+      "descp": "3 rot' or Brown rice with scrambled eggs (3 whites 1 whole eggs) or lentils, peas or beans(daal, rajma etc.)"
+    },
+    {
+      "title": "Meal 4 (Pre Workout)",
+      "descp": "Take 1 cup Oats, 1 scoop whey protein or skimmed milk powder ad blend it. Then add 1 spoon of peanut butter, 1 whole banana, chocolate syrup(If using skimmed milk powder), few ice cubes and water. Blend the whole mixture and have it 2 hours prior to workout. 10 minutes prior to workout have black coffee. "
+    },
+    {
+      "title": "Meal 5 (Post Workout)",
+      "descp": "Protein shake(1 scoop with water) or 4 to 5 egg whiter or skimmed milk powder(1 or 2 scoops) "
+    },
+    {
+      "title": "Meal 1 (Dinner)",
+      "descp": "2 rot's or brown rice with 200 gms chicken breast or peas/ beans(ratma, chowli etc)"
+    }
+  ]
+}

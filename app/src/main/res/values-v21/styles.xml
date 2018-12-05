@@ -1,0 +1,16 @@
+<resources>
+    <style name="LoginEtStyle" parent="@android:style/Widget.EditText">
+        <item name="colorAccent">@android:color/white</item>
+        <item name="backgroundTint">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorHint">@android:color/white</item>
+    </style>
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowBackground">@drawable/bg_dash</item>
+        <item name="editTextStyle">@style/LoginEtStyle</item>
+    </style>
+</resources>
