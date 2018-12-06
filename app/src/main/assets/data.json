@@ -1771,5 +1771,257 @@
       "title": "Meal 1 (Dinner)",
       "descp": "2 rot's or brown rice with 200 gms chicken breast or peas/ beans(ratma, chowli etc)"
     }
-  ]
+  ],
+  "weight_loose_diet_plan":{
+    "standard":[
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Red rice with steam cooked tuna\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 cup of green tea\n4 oatmeal cookies\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Steam cooked chicken breasts\nFruit salad "
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"1 scrambled egg\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with veggies\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Chicken soup Pineapple slices or grapes"
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat chicken wrap(Chicken breasts + lettuce + tomato + yogurt sauce)\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of amla juice\n4 slices of pineapple\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Steam cooked lean beef\nBoiled vegetables(Spinach, beans, cabbage, tomato)\nGreek yogurt "
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"2 scrambled eggs\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with steam cooked salmon\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Vegetable soup\nChicken breasts"
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk"
+        },
+        {
+          "title":"Lunch",
+          "descp":"Red rice with steam cooked tuna\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 cup of green tea\n4 oatmeal cookies\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Steam cooked chicken breasts\nFruit salad\nGreek yogurt "
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"1 scrambled egg\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with broccoli\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Chicken soup\n3 Pineapple slices or grapes "
+        }
+      ],[
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk"
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat fish wrap(Steam cooked tuna + lettuce + tomato + yogurt sauce)\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of amla juice\n3 slices of pineapple\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Steam cooked lean beef\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        }
+      ]
+    ],
+    "vegetarian":[
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Red rice with mushroom\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 cup of green tea\n4 oatmeal cookies\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Vegetable soup\nGrapes\nGreek yogurt"
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"1 scrambled egg\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with veggies\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Tomato soup Fruit salad"
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat vegetable wrap(Tomato + onion + cucumber + spinach + cheese)\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of amla juice\n4 slices of pineapple\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"leafy greens soup(broccoli + spinach + lettuce)\nPineapple slices\nGreek yogurt"
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 scrambled eggs\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with broccoli\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Vegetable soup Grapes"
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Red rice with leafy greens(spinach + broccoli)\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 cup of green tea\n4 oatmeal cookies\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Tomato soup Fruit salad "
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"1 scrambled egg\nOats with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Whole wheat pasta with broccoli\nBoiled vegetables(Spinach, beans, cabbage, tomato) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of lemon juice with honey\nBrown bread veg sandwich\n4 Walnuts "
+        },
+        {
+          "title":"Dinner",
+          "descp":"leafy greens soup(broccoli + spinach + lettuce)\nPineapple slices "
+        }
+      ],
+      [
+        {
+          "title":"Breakfast",
+          "descp":"2 boiled egg whites\nCorn flakes with skimmed milk "
+        },
+        {
+          "title":"Lunch",
+          "descp":"Red rice with mushroom\nVegetable salad(Carrot, cucumber, cabbage, lettuce) "
+        },
+        {
+          "title":"Snack",
+          "descp":"1 glass of amla juice\n3 slices of pineapple\n5 almonds "
+        },
+        {
+          "title":"Dinner",
+          "descp":"Vegetable soup\nGrapes\nGreek yogurt "
+        }
+      ]
+    ]
+  }
 }

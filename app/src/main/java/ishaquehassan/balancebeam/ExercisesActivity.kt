@@ -22,6 +22,8 @@ class ExercisesActivity : AppCompatActivity() {
         exercisesHeader = intent.getSerializableExtra("header") as ExerciseCategory
         title = exercisesHeader.title+" Exercises"
 
+        var isWeightLose = intent.getBooleanExtra("isWeightLoose",false)
+
         exHead_bgImg.setImageResource(getDrawableResId(exercisesHeader.image))
         exHead_titleTv.text = exercisesHeader.title
         exHead_stitleTv.text = "${exercisesHeader.stitle} for ${getUserData().skillLevel}"
@@ -51,13 +53,28 @@ class ExercisesActivity : AppCompatActivity() {
         exercisesList.addDivider()
         exercisesList.layoutManager = LinearLayoutManager(this)
 
-        exHead_dietPlanBtn.setOnClickListener {
-            startActivity(Intent(this,DietPlanActivity::class.java).apply {
-                putExtra("isLean",true)
-            })
-        }
-        exHead_dietPlanBtnBulk.setOnClickListener {
-            startActivity(Intent(this,DietPlanActivity::class.java))
+        if(isWeightLose){
+            exHead_dietPlanBtn.text = "Standard Diet"
+            exHead_dietPlanBtnBulk.text = "Vegetarian Diet"
+            exHead_dietPlanBtn.setOnClickListener {
+                startActivity(Intent(this,WeightLooseDietActivity::class.java).apply {
+                    putExtra("type","standard")
+                })
+            }
+            exHead_dietPlanBtnBulk.setOnClickListener {
+                startActivity(Intent(this,WeightLooseDietActivity::class.java).apply {
+                    putExtra("type","vegetarian")
+                })
+            }
+        }else{
+            exHead_dietPlanBtn.setOnClickListener {
+                startActivity(Intent(this,DietPlanActivity::class.java).apply {
+                    putExtra("isLean",true)
+                })
+            }
+            exHead_dietPlanBtnBulk.setOnClickListener {
+                startActivity(Intent(this,DietPlanActivity::class.java))
+            }
         }
     }
 }

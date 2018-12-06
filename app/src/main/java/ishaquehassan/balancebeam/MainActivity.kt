@@ -56,6 +56,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(this, ExercisesActivity::class.java).also {
                 it.putExtra("data", getWeightLooseProgram().levels[getUserData().skillLevel])
                 it.putExtra("header", getWeightLooseProgram())
+                it.putExtra("isWeightLoose", true)
             })
         }
     }

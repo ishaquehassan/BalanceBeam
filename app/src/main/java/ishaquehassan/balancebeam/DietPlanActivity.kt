@@ -29,6 +29,7 @@ class DietPlanActivity : AppCompatActivity() {
                     v.findViewById<TextView>(R.id.d_descp).text = itm.descp
                 }
         dietPlanList.layoutManager = LinearLayoutManager(this)
+
     }
 
     override fun onSupportNavigateUp(): Boolean {

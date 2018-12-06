@@ -8,12 +8,14 @@ import android.view.View
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.gson.Gson
+import com.google.gson.reflect.TypeToken
 import ishaquehassan.balancebeam.models.DietPlanModel
 import ishaquehassan.balancebeam.models.ExerciseCategory
 import ishaquehassan.balancebeam.models.UserData
 import org.json.JSONObject
 import java.io.IOException
 import java.util.*
+import kotlin.collections.HashMap
 
 fun Context.loadFileFromAssets(inFile: String): String {
     var tContents = "{}"
@@ -38,11 +40,12 @@ fun Context.getAllDiseases():Array<ExerciseCategory> =Gson().fromJson(JSONObject
 fun Context.getBulkDietPlan():Array<DietPlanModel> =Gson().fromJson(JSONObject(loadFileFromAssets("data.json")).getString("bulk_diet_plan"),Array<DietPlanModel>::class.javaObjectType)
 fun Context.getLeanDietPlan():Array<DietPlanModel> =Gson().fromJson(JSONObject(loadFileFromAssets("data.json")).getString("lean_diet_plan"),Array<DietPlanModel>::class.javaObjectType)
 fun Context.getWeightLooseProgram():ExerciseCategory =Gson().fromJson(JSONObject(loadFileFromAssets("data.json")).getString("weight_loose_program"),ExerciseCategory::class.javaObjectType)
+fun Context.getWeightLooseProgramDiet():Map<String,Array<Array<DietPlanModel>>>  =Gson().fromJson(JSONObject(loadFileFromAssets("data.json")).getString("weight_loose_diet_plan"),MyJClass.getMapType())
 
 fun <T> Array<T>.toArrayList():ArrayList<T> = this.toCollection(ArrayList())
 
 fun Context.getDrawableResId(drawable: String):Int = resources.getIdentifier(drawable, "drawable", packageName)
-
+val  a = "";
 fun Context.toast(msg:String){
     Toast.makeText(this,msg,Toast.LENGTH_SHORT).show()
 }
