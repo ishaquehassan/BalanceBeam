@@ -36,6 +36,7 @@ class SplashActivity : AppCompatActivity() {
         imageSlider.pageChangeListener = {
             if(it == imgs.size-1){
                 imageSlider.postDelayed({
+                    imageSlider.pageChangeListener = {}
                     proceed()
                 },1500)
             }
